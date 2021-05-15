@@ -18,9 +18,7 @@ The goal of this project is to build a system using logistic regression to predi
 This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1) && (HRSWK>0)) [2]
 
 ## References
-
 [1] Wikipedia. (2021, May 7). Personal income. Retrieved from Wikipedia: https://en.wikipedia.org/wiki/Personal_income
-
 [2] Ronny Kohavi, B. B.. Retrieved from United States Census Bureau: https://www.census.gov/en.html
 
 
